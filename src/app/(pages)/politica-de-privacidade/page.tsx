@@ -33,13 +33,14 @@ export default function PoliticaDePrivacidadePage() {
       />
       <Header />
       <main>
-        <article className="container-padding mx-auto max-w-4xl wrap-break-word py-12">
+        <article className="container-padding mx-auto max-w-7xl wrap-break-word py-12">
           <div className="space-y-6 text-gray-700 [&_h2]:mt-10 [&_h2]:text-2xl [&_h2]:font-bold [&_h2]:text-gray-900 [&_h3]:mt-6 [&_h3]:text-xl [&_h3]:font-bold [&_h3]:text-gray-900 [&_ul]:list-disc [&_ul]:pl-6 [&_li]:my-2">
             <h2>Política de Privacidade</h2>
             <p>
-              É política da Portocon Contabilidade e Assessoria LTDA respeitar a sua privacidade
-              em relação a qualquer informação sua que possamos coletar no site
-              Portocon Contabilidade e Assessoria LTDA, e outros sites que possuímos e operamos.
+              É política da Portocon Contabilidade e Assessoria LTDA respeitar a
+              sua privacidade em relação a qualquer informação sua que possamos
+              coletar no site Portocon Contabilidade e Assessoria LTDA, e outros
+              sites que possuímos e operamos.
             </p>
 
             <p>
@@ -82,7 +83,9 @@ export default function PoliticaDePrivacidadePage() {
               informações pessoais, entre em contato conosco.
             </p>
 
-            <h2>Política de Cookies Portocon Contabilidade e Assessoria LTDA</h2>
+            <h2>
+              Política de Cookies Portocon Contabilidade e Assessoria LTDA
+            </h2>
 
             <h3>O que são cookies?</h3>
             <p>
@@ -174,8 +177,8 @@ export default function PoliticaDePrivacidadePage() {
             <h3>Compromisso do Usuário</h3>
             <p>
               O usuário se compromete a fazer uso adequado dos conteúdos e da
-              informação que a Portocon Contabilidade e Assessoria LTDA oferece no site e com
-              caráter enunciativo, mas não limitativo:
+              informação que a Portocon Contabilidade e Assessoria LTDA oferece
+              no site e com caráter enunciativo, mas não limitativo:
             </p>
             <ul>
               <li>
@@ -190,10 +193,11 @@ export default function PoliticaDePrivacidadePage() {
               </li>
               <li>
                 C) Não causar danos aos sistemas físicos (hardwares) e lógicos
-                (softwares) da Portocon Contabilidade e Assessoria LTDA, de seus fornecedores ou
-                terceiros, para introduzir ou disseminar vírus informáticos ou
-                quaisquer outros sistemas de hardware ou software que sejam
-                capazes de causar danos anteriormente mencionados.
+                (softwares) da Portocon Contabilidade e Assessoria LTDA, de seus
+                fornecedores ou terceiros, para introduzir ou disseminar vírus
+                informáticos ou quaisquer outros sistemas de hardware ou
+                software que sejam capazes de causar danos anteriormente
+                mencionados.
               </li>
             </ul>
 
